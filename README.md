@@ -4,7 +4,7 @@ Estudante de Engenharia de Software focado no desenvolvimento de sistemas, autom
 
 ### Tecnologias e Ferramentas
 
-* **Backend & Linguagens:** Python, C#, Java, TypeScript, C
+* **Backend & Linguagens:** Python, C#, GO, TypeScript, JavaScript
 * **Infraestrutura & DevOps:** Docker, Terraform, GitHub Actions, Redis
 * **Bancos de Dados:** PostgreSQL, MySQL, PL/SQL
 * **Web & Frameworks:** React, Vue, Django, Flask, Tailwind CSS
