@@ -11,4 +11,4 @@ Estudante de Engenharia de Software focado no desenvolvimento de sistemas, autom
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/kleversongustavo-developer) ◦ [E-mail](mailto:kleversongustavo0@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kleversongustavo-developer) ◦ [E-mail](mailto:kleversongustavo0@gmail.com) ◦ [Portfólio](mailto:https://gustavoferreira.com.br/)
